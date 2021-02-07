@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {	
-	string name;
+	string firstname;
 	cout<<"What is your name?;
-	cin>>name;
-	cout<<"Hello"<<name<<endl;
+	cin>>firstname;
+	cout<<"Hello"<<firstname<<endl;
 	return 0;
 }
